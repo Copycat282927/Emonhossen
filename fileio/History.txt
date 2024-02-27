@@ -1,0 +1,24 @@
+
+Local Restaurant Name is : er
+Restaurant ID : er
+Location : er
+
+Local Restaurant Name is : df
+Restaurant ID : df
+Location : df
+
+Local Restaurant Name is : cvc
+Restaurant ID : cvc
+Location : cvc
+
+Local Restaurant Name is : 11
+Restaurant ID : 11
+Location : 11
+
+Local Restaurant Name is : 22
+Restaurant ID : 22
+Location : 22
+
+Local Restaurant Name is : 33
+Restaurant ID : 33
+Location : 33
